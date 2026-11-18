@@ -2,7 +2,7 @@
 
 Web developer working with JavaScript, TypeScript, and Angular. My projects cover web interfaces, reusable components, developer tools, and backend applications, alongside experiments in Java, Python, and algorithms.
 
-[GitHub](https://github.com/alihkz1) · [LinkedIn](https://www.linkedin.com/in/alihkz/) · [Instagram](https://www.instagram.com/alihkz/) · [Telegram](https://t.me/alihkz)
+[Portfolio](https://portfolio-henna-one-60.vercel.app/) ·  [GitHub](https://github.com/alihkz1) · [LinkedIn](https://www.linkedin.com/in/alihkz/) · [Instagram](https://www.instagram.com/alihkz/) · [Telegram](https://t.me/alihkz)
 
 ## What I build
 
